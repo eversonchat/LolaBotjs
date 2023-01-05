@@ -11,4 +11,3 @@ bot.application.commands.valueOf().map(o=>{
     bot.application.commands.delete(o.id)
 })
 })
-// TK: MTAzODQ4NjgxMTg2MjkwOTEwMQ.GdNFXi.N8TIe4Cdgi8jZgQO5o0g5rqpeoHYApvL0GFaiU
